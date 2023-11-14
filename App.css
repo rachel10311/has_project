@@ -1,0 +1,25 @@
+.gray-background{
+  background: darkgray;
+}
+
+.black-nav{
+  background: black;
+  width: 100%;
+  display: flex;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
+.green-nav{
+  background: rgb(6, 145, 124);
+  width: 100%;
+  display: flex;
+  color: rgb(2,167,142);
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  box-sizing: border-box;
+}
